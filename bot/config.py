@@ -1,11 +1,13 @@
 class config:
-    BOT_TOKEN = "1862187320:AAGranm8UATIG6InREeUoFlz4fNUntP1FVA"
+    BOT_TOKEN = "1865669165:AAFq9eZDXBhiPqNnp4Oi4mSm_LPPToC2UeI"
     APP_ID = "6137364"
     API_HASH = "363d689bf36253ecabdf7405b2f3200e"
-    DATABASE_URL = "postgres://moxnviwsfzzmfk:efbef7892eb68c7d97d37c8898145389ac9520743a4d48f704bd57fd2b3805e6@ec2-34-233-114-40.compute-1.amazonaws.com:5432/dekagkm8r06cqf"
+    DATABASE_URL = "postgres://dnqtkjpakpvicl:ce6b2581b45e5e1266ba6d1f73bb48afeeb7210e7ed8aa1d9b0db655dd2e357f@ec2-3-224-7-166.compute-1.amazonaws.com:5432/d345o8rmfmefc2"
     SUDO_USERS = "794655216" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
-    DOWNLOAD_DIRECTORY = "./downloads/"
+    DOWNLOAD_DIRECTORY = "./UpDriveBot/"
+    G_DRIVE_CLIENT_ID = "641462305069-pd034t5j6tth9him82ftn24q2a331gbr.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "38GFzNIzIBt35LxR2takf2ZR"
 
 
 class BotCommands:
