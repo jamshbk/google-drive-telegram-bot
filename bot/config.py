@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "794655216" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./UpDriveBot/"
-    G_DRIVE_CLIENT_ID = "641462305069-pd034t5j6tth9him82ftn24q2a331gbr.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "38GFzNIzIBt35LxR2takf2ZR"
+    G_DRIVE_CLIENT_ID = "641462305069-qrhq3av3blef84cf1cpsok4g9k8mbd46.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "DLzCtRe6QelJyX4eW2WbLswq"
 
 
 class BotCommands:
